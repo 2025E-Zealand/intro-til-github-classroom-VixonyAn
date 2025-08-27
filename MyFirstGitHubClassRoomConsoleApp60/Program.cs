@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using MyFirstGitHubClassRoomConsoleApp60;
+using System.Runtime.InteropServices;
 Console.WriteLine("Hello, World!");
+
+demo Demo = new demo();
+
+Console.WriteLine(Demo.numberY);
